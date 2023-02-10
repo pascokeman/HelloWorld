@@ -12,3 +12,16 @@ patient_age = 20
 is_new_patient = True
 
 print(patient_name, patient_age, is_new_patient)
+
+#Variable Declaration: variablename = value
+name = input("what is your name? ")
+print(name)
+
+print("what is your name")
+name = input()
+print(name)
+
+
+
+
+
